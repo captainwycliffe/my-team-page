@@ -9,10 +9,10 @@ font-family: 'PT Serif';
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 48px;
+line-height: 50px;
 letter-spacing: -0.045em;
 
-color: #000000;
+color: #ffffff;
 
 }
 h2{
@@ -26,8 +26,8 @@ h2{
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
+    font-size: 18.5px;
+    line-height: 27.5px;
     /* identical to box height */
     
     text-transform: uppercase;
